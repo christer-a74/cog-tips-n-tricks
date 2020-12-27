@@ -1,0 +1,5 @@
+# Contributor:
+-Dcom.ibm.cognos.tm1.certificate.dir=${bin_path}
+
+# Not needed at the present (but seems to be the way to disable NIST conformance in Java):
+#-Dcom.ibm.jsse2.sp800-131=off
